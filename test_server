@@ -1,8 +1,6 @@
-
-  {
-    "pw":"anjaypwcuy",
-"pw2":"test2",
-"pw3":"anjay3",
-"pw4":"empat"
-  }
-
+{
+  "pw": "test1",
+  "pw2": "test2",
+  "pw3": "test3",
+  "pw4": "test4"
+}
